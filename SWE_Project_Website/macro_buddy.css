@@ -51,3 +51,7 @@
     float: right;
     padding-right: 8px;
   }
+
+  .container {
+    overflow-wrap: break-word;
+  }
